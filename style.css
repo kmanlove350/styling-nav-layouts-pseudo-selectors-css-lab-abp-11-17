@@ -69,7 +69,7 @@ footer{
   color: #CCC;
 }
 
-#icebreakers a:hover  {
+#icebreakers header a:hover  {
   text-decoration: underline;
 }
 
