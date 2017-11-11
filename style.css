@@ -87,5 +87,6 @@ div.questions p  {
 }
 
 div.questions a.btn  {
-  margin: 30px 0 0 0;
+  border-radius: 5px;
+  
 }
