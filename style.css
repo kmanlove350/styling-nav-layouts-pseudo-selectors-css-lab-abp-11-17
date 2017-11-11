@@ -69,6 +69,6 @@ footer{
   color: #CCC;
 }
 
-#icebreakers  {
+#icebreakers a:hover  {
   text-decoration: underline;
 }
